@@ -2,7 +2,7 @@
 
 <!--
 **MKC2507/MKC2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Making some changes because that was the point, right? So I'm just going to write some meaningless text here.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
